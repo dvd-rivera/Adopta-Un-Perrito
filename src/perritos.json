@@ -2,27 +2,32 @@
     {
       "src": "https://th.bing.com/th/id/OIG2.urbtcU07_ZdzY9cEg9FB?w=1024&h=1024&rs=1&pid=ImgDetMain",
       "name": "Firulais",
-      "description": "Un encantador perro mestizo con manchas en el pelaje."
+      "description": "Un encantador perro mestizo con manchas en el pelaje.",
+      "race": "Mestizo"
     },
     {
       "src": "https://th.bing.com/th/id/OIG3.d6z1PVeg0T3XiLLQ8_Ii?w=1024&h=1024&rs=1&pid=ImgDetMain",
       "name": "Luna",
-      "description": "Una perrita de raza Golden Retriever con ojos brillantes."
+      "description": "Una perrita de raza Golden Retriever con ojos brillantes.",
+      "race": "Golden Retriever"
     },
     {
       "src": "https://th.bing.com/th/id/OIG4.KIipOwXhY0rC9Ys9j3H7?pid=ImgGn",
       "name": "Rocky",
-      "description": "Un valiente perro pastor alemán con una cola esponjosa."
+      "description": "Un valiente perro pastor alemán con una cola esponjosa.",
+      "race": "Pastor alemán"
     },
     {
       "src": "https://th.bing.com/th/id/OIG2.emo5dPzikShDa_M2PwzK?pid=ImgGn",
       "name": "Coco",
-      "description": "Una pequeña chihuahua de pelo largo y orejas puntiagudas."
+      "description": "Una pequeña chihuahua de pelo largo y orejas puntiagudas.",
+      "race": "Chihuahua"
     },
     {
       "src": "https://th.bing.com/th/id/OIG1.yRlhEUTKnL.bKEOwZWoH?w=1024&h=1024&rs=1&pid=ImgDetMain",
       "name": "Bella",
-      "description": "Una elegante perrita de raza Dalmata con manchas negras."
+      "description": "Una elegante perrita de raza Dalmata con manchas negras.",
+      "race": "Dalmata"
     }
 ]
   

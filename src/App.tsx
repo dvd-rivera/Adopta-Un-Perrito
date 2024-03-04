@@ -3,6 +3,7 @@ import Card from './Card'
 import Header from './Header'
 import Data from './perritos.json'
 import Footer from './Footer'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (

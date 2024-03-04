@@ -1,8 +1,10 @@
+import Tags from "./Tags"
 
 interface DogData {
   name: string
   src: string
   description: string
+  race: string
 }
 
 interface CardProps {
@@ -17,6 +19,7 @@ const Card: React.FC<CardProps> = ({ data }) => {
               <img src={perrito.src} alt={perrito.name} />
               <h3>{perrito.name}</h3>
               <p>{perrito.description}</p>
+              <Tags race={perrito.race} ></Tags>
             </div>
           ))}
         </div>
